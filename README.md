@@ -38,7 +38,7 @@ The following is a sample notification message body:
              "type":"node_failure"
         }
         
-        ```
+      ```
         
 3. Restart the Chef Automate server after saving the delivery.rb file.
 
